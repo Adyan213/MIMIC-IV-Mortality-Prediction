@@ -56,6 +56,10 @@ SHAP values confirm the model learned clinically coherent patterns:
 - Ventilation on day 1 — mechanical ventilation indicates severe illness
 - Surgical same-day admission — strongest protective factor, planned procedures indicate healthier baseline
 
+## Related Projects
+
+[WiDS Datathon 2020 ICU Mortality Prediction](https://github.com/Adyan213/WiDS-Datathon-2020-Mortality-Prediction) — a related project on a pre-packaged clinical dataset showing consistent findings across APACHE score removal
+
 ## Tech Stack
 
 Python, XGBoost, scikit-learn, SHAP, pandas, Google BigQuery, SQL
