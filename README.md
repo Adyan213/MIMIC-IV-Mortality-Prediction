@@ -8,7 +8,7 @@ A clinical machine learning pipeline for predicting in-hospital mortality of ICU
 
 ## Notebook
 
-[View Notebook on nbviewer](#)
+[View Notebook](https://github.com/Adyan213/MIMIC-IV-Mortality-Prediction/blob/main/mimic-iv-mortality-prediction.ipynb)
 
 ## Pipeline
 
