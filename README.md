@@ -157,4 +157,4 @@ without `los`.
 
 ## Tech Stack
 
-Python, XGBoost, scikit-learn, SHAP, pandas, Google BigQuery, SQL
+Python, XGBoost, scikit-learn, SHAP, pandas, Google BigQuery, SQL, lifelines
